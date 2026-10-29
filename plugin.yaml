@@ -1,6 +1,6 @@
 name: modular
 kind: model-provider
-version: 0.1.0
+version: 0.1.1
 description: Modular Cloud — open models (MiniMax, DeepSeek, Gemma) on an OpenAI-compatible API
 author: Modular (tommyjtl)
 license: Apache-2.0
