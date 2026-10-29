@@ -1,7 +1,7 @@
 name: modular
 kind: model-provider
 version: 0.1.1
-description: Modular Cloud — open models (MiniMax, DeepSeek, Gemma) on an OpenAI-compatible API
+description: Modular Cloud (MiniMax, DeepSeek, Gemma and more via OpenAI-compatible API)
 author: Modular (tommyjtl)
 license: Apache-2.0
 homepage: https://github.com/tommyjtl/hermes-modular-provider

@@ -87,7 +87,7 @@ class ModularProfile(ProviderProfile):
 modular = ModularProfile(
     name="modular",
     display_name="Modular",
-    description="Modular Cloud — open models (MiniMax, DeepSeek, Gemma and more), OpenAI-compatible API",
+    description="Modular Cloud (MiniMax, DeepSeek, Gemma and more via OpenAI-compatible API)",
     signup_url="https://docs.modular.com/models",
     env_vars=('MODULAR_API_KEY',),
     base_url="https://api.modular.com/v1",
